@@ -1,0 +1,37 @@
+
+	body{
+		background-color:#330033;
+		text-align: justify;
+		color: #FFFFFF ;
+		font-family:verdana;
+		text-align:center;
+		font-size:20px;
+	}
+
+h1 {
+	font-family:times new roman;
+	font-size:35px;
+	text-align:center;
+	text-decoration:underline;
+
+}
+
+h4{
+	font-size: 28px;
+}
+
+
+	.myButton {
+	background-color:#7892c2;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	border-radius:15px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	padding:8px 18px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
