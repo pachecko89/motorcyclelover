@@ -23,6 +23,7 @@
 	</head>
 
 	<body>
+	<h1>HUEVOS PUTO</h1>
 	<?php 
 		include "menu.php";
 	?>
